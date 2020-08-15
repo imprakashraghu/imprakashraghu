@@ -1,6 +1,6 @@
-#### Hi there, I'm Hemaprakash Raghu 👋
+### Hi there, I'm Hemaprakash Raghu 👋
 
-### I'm a JavaScript Developer and Content Creator!
+## I'm a JavaScript Developer and Content Creator!
 <!--
 **imprakashraghu/imprakashraghu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
