@@ -6,7 +6,6 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on a startup [vscaleup](https://vscaleup.com).
 - 🌱 I’m currently learning React deep into it.
 - 👯 I’m looking to collaborate with independent developers.
 - ⚡ Fun fact: I love playing multiplayer battles.
