@@ -3,19 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imprakashraghu" alt="imprakashraghu" /> </p>
 
-- 🔭 I’m currently working on **hyderjs**
-
 - 🌱 I’m currently learning **data structures**
-
-- 👯 I’m looking to collaborate on **customized style sheet library**
 
 - 🤝 I’m looking for help with [hyderjs](https://github.com/imprakashraghu/hyderjs)
 
-- 👨‍💻 All of my projects are available at [https://prakashjaw.bss.design](https://prakashjaw.bss.design)
-
 - 📝 I regularly write articles on [https://medium.com/@imprakash](https://medium.com/@imprakash)
-
-- 💬 Ask me about **life**
 
 - 📫 How to reach me **prakashjaw@hotmail.com**
 
