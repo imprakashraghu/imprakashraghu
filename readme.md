@@ -1,4 +1,4 @@
-Hello I'm Hemaprakash 👋 I'm a Software Engineer, living in Puducherry, India.
+Hello I'm Hemaprakash 👋 I'm a Software Engineer.
 
 - 🎯 Currently focusing on Algorithms and AWS CFN.
 - 🗣 Sharing Knowledge on [Linkedin](https://linkedin.com/in/imprakashraghu).
