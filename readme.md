@@ -1,6 +1,6 @@
 Hello I'm Hemaprakash 👋 I'm a Software Engineer.
 
-- 🎯 Currently focusing on Algorithms and AWS CFN.
+- 🎯 Currently focusing on Algorithms.
 - 🗣 Sharing Knowledge on [Linkedin](https://linkedin.com/in/imprakashraghu).
 - 🥶 Chilling on [LeetCode](https://leetcode.com/imprakashraghu).
 - 📄 Find my Blogs and Updates at [Medium](https://imprakashraghu.medium.com) and [Dev Community](https://dev.to/imprakashraghu).
